@@ -1,0 +1,9 @@
+client/.node_modules
+client/node_modules
+client/.env
+client/.qodo
+server/.node_modules
+server/node_modules
+server/.env
+server/.qodo  
+server/build
