@@ -1,0 +1,31 @@
+{
+  "name": "stock-tracking-app",
+  "version": "1.0.0",
+  "description": "A web application for tracking stock prices and managing a watchlist.",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "antd": "^4.16.13",
+    "moment": "^2.29.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.27.1"
+  },
+  "keywords": [
+    "stocks",
+    "tracking",
+    "watchlist",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
